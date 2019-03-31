@@ -1,0 +1,11 @@
+*~
+*.gmo
+*.la
+*.lo
+*.o
+*.swp
+*.pyc
+*.txt.user
+.DS_Store
+.idea/*
+build*
