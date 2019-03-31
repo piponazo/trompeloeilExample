@@ -4,8 +4,6 @@
 #include <catch2/catch.hpp>
 #include <trompeloeil.hpp>
 
-extern template struct trompeloeil::reporter<trompeloeil::specialized>;
-
 class StoreMock : public Store
 {
 public:
